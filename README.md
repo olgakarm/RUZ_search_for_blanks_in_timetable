@@ -1,4 +1,4 @@
-# RUZ_search for windows in timetable
+# RUZ_search_for_blanks_in_timetable
 
 Авторы: Кармадонова О., Межакова П.
 
